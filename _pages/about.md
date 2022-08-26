@@ -19,4 +19,6 @@ After graduating in the winter of 2020, I started working for [Semantic Health](
 
 Since October of 2021 I have been pursuing a PhD at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/) under the supervision of [Sjors Scheres](https://www2.mrc-lmb.cam.ac.uk/group-leaders/n-to-s/sjors-scheres/). I have been working on applying deep learning to cryogenic electron microscopy (cryo-EM). My main project has been focused on automated atomic model building in cryo-EM maps. I have also been working on heterogeneous reconstruction algorithms using VAEs. More about this project soon!
 
-I have made some open source contributions to [PyTorch](https://github.com/pytorch/pytorch) and [e3nn-jax](https://github.com/e3nn/e3nn-jax).
+I have also made some open source contributions to [PyTorch](https://github.com/pytorch/pytorch) and [e3nn-jax](https://github.com/e3nn/e3nn-jax).
+
+If you would like to learn more, or have an interesting cryo-EM structure that you would like to test with my auto-building, please reach out via email.
