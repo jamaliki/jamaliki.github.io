@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiarash Jamali / Personal Site"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Kiarash Jamali"
 description              : &description "personal site"
