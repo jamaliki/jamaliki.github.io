@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  modelangelo:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -203,6 +206,13 @@ defaults:
       share: true
       related: true
   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _modelangelo
   - scope:
       path: ""
       type: pages
