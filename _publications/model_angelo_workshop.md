@@ -1,10 +1,11 @@
 ---
 title: "ModelAngelo: Automated Model Building in Cryo-EM Maps"
 collection: publications
-permalink: /publication/model_angelo
+permalink: /publication/model_angelo_workshop
 excerpt: ''
-date: 2022-09-28
+date: 2022-12-28
 paperurl: ''
+venue: "Machine Learning for Structural Biology Workshop, NeurIPS 2022"
 ---
 **Authors**: Kiarash Jamali, Dari Kimanius, and Sjors H.W. Scheres 
 
