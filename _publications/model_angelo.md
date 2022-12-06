@@ -1,5 +1,5 @@
 ---
-title: "ModelAngelo: Automated Model Building in Cryo-EM Maps"
+title: "A graph neural network approach to automated model building in cryo-EM maps"
 collection: publications
 permalink: /publication/model_angelo
 excerpt: ''
