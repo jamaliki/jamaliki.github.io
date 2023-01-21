@@ -3,7 +3,8 @@ title: "A graph neural network approach to automated model building in cryo-EM m
 collection: publications
 permalink: /publication/model_angelo
 excerpt: ''
-date: 2022-09-28
+venue: 'ICLR 2023'
+date: 2023-05-01
 paperurl: ''
 ---
 **Authors**: Kiarash Jamali, Dari Kimanius, and Sjors H.W. Scheres 
