@@ -5,6 +5,7 @@ permalink: /publication/adflip
 excerpt: ''
 date: 2025-05-01
 paperurl: 'https://openreview.net/pdf?id=8tQdwSCJmA'
+venue: ICML 2025
 ---
 **Authors**: Kai Yi*, Kiarash Jamali*, and Sjors H.W. Scheres
 
