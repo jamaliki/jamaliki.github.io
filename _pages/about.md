@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kiarash Jamali, a machine learning researcher currently applying it to structural biology.
+Hi! I am Kiarash Jamali, a final-year PhD student focusing on developing machine learning approaches applied to structural biology.
 I got my B.S.c in mathematics and statistics from the University of Toronto, St George in 2021. 
 While in Toronto, I was at the [Vector Institute](https://vectorinstitute.ai/) as a machine learning researcher being supervised by [Frank Rudzicz](http://www.cs.toronto.edu/~frank/). 
 While there I worked mostly on developing new neural network architectures, specifically for [GANs](https://arxiv.org/abs/1811.08081) and for [metrics](https://openreview.net/forum?id=HJeiDpVFPr). 
@@ -17,10 +17,10 @@ In the summer of 2019, as part of UofT's [PEY program](https://engineeringcareer
 
 After graduating in the winter of 2020, I started working for [Semantic Health](https://www.semantichealth.ai/) as a machine learning scientist. Semantic Health is a start-up that uses NLP to help hospitals maximize the use of their data by medical coders and auditors. I worked on localization algorithms using vector similarity search as well as more conventional language modelling tasks with transformers. I also set up the machine learning productionization pipeline with MLFlow. 
 
-Since October of 2021, I have been pursuing a PhD at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/) under the supervision of [Sjors Scheres](https://www2.mrc-lmb.cam.ac.uk/group-leaders/n-to-s/sjors-scheres/) and funded by the [LMB Cambridge Scholarship](https://www.cambridgetrust.org/partners/mrc-laboratory-of-molecular-biology-cambridge). I have been working on applying deep learning to cryogenic electron microscopy (cryo-EM). My main project has been focused on automated atomic model building in cryo-EM maps. I have also been working on heterogeneous reconstruction algorithms using VAEs. 
+Since October of 2021, I have been pursuing a PhD at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/) under the supervision of [Sjors Scheres](https://www2.mrc-lmb.cam.ac.uk/group-leaders/n-to-s/sjors-scheres/) and funded by the [LMB Cambridge Scholarship](https://www.cambridgetrust.org/partners/mrc-laboratory-of-molecular-biology-cambridge). I have been working on applying deep learning to cryogenic electron microscopy (cryo-EM). My main PhD project was focused on automated atomic model building in cryo-EM maps. I have also been working on heterogeneous reconstruction algorithms using VAEs. Recently, I have moved towards protein design with many interesting projects ongoing, the first of which is (ADFLIP)[https://openreview.net/pdf?id=8tQdwSCJmA].
 
 I spent the summer of 2023 as a machine learning intern at [Diffuse Bio](https://www.diffuse.bio/), where I was able to learn from Namrata Anand about machine learning approaches to protein design. 
 
 I have also made some open source contributions to [PyTorch](https://github.com/pytorch/pytorch) and [e3nn-jax](https://github.com/e3nn/e3nn-jax).
 
-If you would like to learn more, or have an interesting cryo-EM structure that you would like to test with my auto-building, please reach out via email.
+If you would like to learn more, please reach out via email!
