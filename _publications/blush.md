@@ -1,7 +1,7 @@
 ---
 title: "Data-driven regularization lowers the size barrier of cryo-EM structure determination"
 collection: publications
-permalink: /publication/model_angelo_nature
+permalink: /publication/blush
 excerpt: ''
 venue: 'Nature Methods'
 date: 2024-06-11
