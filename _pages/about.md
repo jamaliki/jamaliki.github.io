@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kiarash Jamali, a final-year PhD student focusing on developing machine learning approaches applied to structural biology.
+Hi! I am Kiarash Jamali, an incoming Group Leader at the Generative Biology Institute, EIT, Oxford, UK. I will be researching machine learning approaches applied to biology, specifically protein design. For more information, please see the [lab website](https://jamalilab.com).
+
 I got my B.S.c in mathematics and statistics from the University of Toronto, St George in 2021. 
 While in Toronto, I was at the [Vector Institute](https://vectorinstitute.ai/) as a machine learning researcher being supervised by [Frank Rudzicz](http://www.cs.toronto.edu/~frank/). 
 While there I worked mostly on developing new neural network architectures, specifically for [GANs](https://arxiv.org/abs/1811.08081) and for [metrics](https://openreview.net/forum?id=HJeiDpVFPr). 
